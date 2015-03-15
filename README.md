@@ -1,5 +1,5 @@
 # FBF.Yahoo
-An example OAuth library for use with Yahoo APIs
+An example C# OAuth library for use with Yahoo APIs
 
 ### Getting Started
 
@@ -9,8 +9,8 @@ Select **Installed Application**
 Select **API Permissions --> Fantasy Sports** if you want to load the default URI in the example app  
 Note your new **Consumer Key** and **Consumer Secret**
 
-+  Run the example  
-Replace **Consumer Key** and **Consumer Secret** with yours
++  Run the example Windows 8 app (you will need Visual Studio)  
+Replace **Consumer Key** and **Consumer Secret** with your values
 
 ## LICENSE
 
